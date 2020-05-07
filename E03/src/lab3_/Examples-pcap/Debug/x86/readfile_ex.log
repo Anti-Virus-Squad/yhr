@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(D:\新建文件夹\WpdPack\Examples-pcap\\Debug\x86\)包含从另一个项目(basic_dump.vcxproj, basic_dump_ex.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, UDPdump.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  readfile_ex.c
+readfile_ex.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  readfile_ex.vcxproj -> D:\新建文件夹\WpdPack\Examples-pcap\\Debug\x86\readfile_ex.exe

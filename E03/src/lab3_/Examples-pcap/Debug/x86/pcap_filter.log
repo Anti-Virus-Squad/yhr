@@ -1,0 +1,8 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(D:\新建文件夹\WpdPack\Examples-pcap\\Debug\x86\)包含从另一个项目(basic_dump.vcxproj, UDPdump.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pcap_filter.c
+d:\新建文件夹\wpdpack\examples-pcap\pcap_filter\pcap_filter.c(119): warning C4701: 使用了可能未初始化的局部变量“fp”
+d:\新建文件夹\wpdpack\examples-pcap\pcap_filter\pcap_filter.c(119): warning C4703: 使用了可能未初始化的本地指针变量“fp”
+d:\新建文件夹\wpdpack\examples-pcap\pcap_filter\pcap_filter.c(162): warning C4701: 使用了可能未初始化的局部变量“dumpfile”
+d:\新建文件夹\wpdpack\examples-pcap\pcap_filter\pcap_filter.c(162): warning C4703: 使用了可能未初始化的本地指针变量“dumpfile”
+pcap_filter.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  pcap_filter.vcxproj -> D:\新建文件夹\WpdPack\Examples-pcap\\Debug\x86\pcap_filter.exe

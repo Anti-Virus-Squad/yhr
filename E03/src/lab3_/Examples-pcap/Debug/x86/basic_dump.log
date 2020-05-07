@@ -1,0 +1,3 @@
+﻿  basic_dump.c
+d:\新建文件夹\wpdpack\examples-pcap\basic_dump\basic_dump.c : fatal error C1041: 无法打开程序数据库“D:\新建文件夹\WpdPack\Examples-pcap\Debug\x86\vc141.pdb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
+cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
